@@ -5,6 +5,7 @@ We also consider anothe factor called "Centrality", which is the node centrality
 a 7 factor model. 
 
 Below would be a sample of a node centrality output.
+
 ![Map](https://github.com/WilliamClintC/Patent-Centrality-FactorModel/assets/118032486/595b58d2-7827-4231-96c2-94fee857d100)
 
 The main code FactorModelV5.ipnyb contains the 7 factor model, along with the estimated returns and comparison visualization of model to actual returns. 
